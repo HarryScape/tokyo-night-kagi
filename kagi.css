@@ -1,0 +1,448 @@
+.center-content-box {
+  min-width: 60%;
+}
+
+.main_filters_box {
+  justify-content: center;
+  background-color: #14141b;
+  border-radius: 4px;
+}
+
+.cloud_1,
+.cloud_2 {
+  visibility: hidden;
+}
+
+.footer {
+  visibility: hidden;
+}
+
+footer {
+  visibility: hidden;
+}
+
+:root {
+  background-color: #1a1b26;
+}
+
+header {
+  background-color: #16161e;
+}
+
+#app-header {
+  background-color: #16161e;
+}
+
+.videoResultItem {
+  border-radius: 4px;
+  background-color: #16161e;
+}
+
+.search-form .doggo-sit {
+  visibility: hidden;
+}
+
+.theme_dark {
+  background-color: #1a1b26;
+}
+
+.__sri-title .__sri_title_link:hover {
+  color: #c0cefc;
+}
+
+.__srgi-title a:hover {
+  color: #c0cefc;
+}
+
+#changelogBtn {
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+}
+
+.app-logo svg {
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+}
+
+.feedback-link-btn {
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+  content: "";
+}
+
+.app-header.app-content-box {
+  background-color: #16161e;
+}
+
+body,
+html {
+  background-color: #1a1b26;
+}
+
+.search-form .search-input {
+  background-color: #14141b;
+}
+
+.app-header .search-form .spt {
+  /* background-color: #14141b; */
+  visibility: hidden;
+}
+
+.search-form .search-form-icons {
+  color: #787c99;
+  border-radius: 0 4px 4px 0;
+  background-color: #14141b;
+}
+
+.search-form .free_searches_tag {
+  background-color: #14141b;
+}
+
+.box {
+  background-color: #16161e;
+}
+
+.related-items a {
+  background-color: #16161e;
+}
+
+.related-items a:hover {
+  background-color: #4a37bd;
+  color: #fff;
+}
+
+#searchFormSubmit svg {
+  color: #acb0d0;
+}
+
+#accountContainer .menu-icon a {
+  color: #acb0d0;
+  background-color: #14141b;
+  border: none;
+}
+
+.search-form .search-input {
+  border-radius: 4px 4px 4px 4px;
+}
+
+.landing_cat_buttons {
+  background-color: #14141b;
+}
+
+.k_ui_dropdown.__transparent {
+  background-color: #14141b;
+}
+
+.k_ui_dropdown.__transparent .k_ui_dropdown_data_list {
+  background-color: #14141b;
+}
+
+.k_ui_dropdown_data_sort_list_wrpr .k_ui_dropdown_sort_list_input {
+  background-color: #14141b;
+}
+
+.k_ui_toggle_switch.--enabled .k_ui_toggle_switch_bar {
+  background-color: #9ece6a;
+}
+
+.land_tooltip_message {
+  background-color: #14141b;
+}
+
+.btn.--yellow {
+  background-color: #4a37bd;
+  color: #fff;
+  border: none;
+}
+
+#quickSettingsOpenBtn a {
+  background-color: #14141b;
+  border: none;
+  color: #acb0d0;
+}
+
+.land_tooltip_message .land_tooltip_icon i {
+  color: #787c99;
+  background-color: #14141b;
+}
+
+.app-header {
+  border-bottom: 1px solid #16161e;
+}
+
+.serp-nav ._0_item.n_se:after {
+  border-top: 2px solid #7aa2f7;
+}
+
+.search-form .search-input-container {
+  border: none;
+  border-radius: 4px;
+}
+
+.__sri-title .__sri_title_link:visited {
+  color: #de5971;
+}
+
+.searchResultAnswers
+  .widgetItems
+  .searchResultAnswer
+  .searchResultAnswerUpvotes
+  i {
+  color: #7dcfff;
+}
+
+.searchResultAnswers .widgetItems .searchResultAnswer {
+  background-color: #16161e;
+}
+
+.widget-simple .widgetItemTitle .__title-text {
+  color: #6183bb;
+}
+
+.k_ui_toggle_switch {
+  --active-bg-color: #9ece6a;
+}
+
+/* header menu highlights - web */
+._0_lenses .k_ui_dropdown .k_ui_dropdown_first_item span:after {
+  border-top: 2px solid #7aa2f7;
+}
+
+.k_ui_toggle_switch.--mini .k_ui_toggle_switch_bar {
+  --bg-color: #16161e;
+}
+
+._0_more_search_box {
+  background-color: #16161e;
+  border: 1px solid #16161e;
+}
+
+._0_more_search_bangs_list_box {
+  border-bottom: 1px solid #16161e;
+}
+
+.sidebar-filter-nav-form .sidebar-filter-nav > .filter-item .dd-list {
+  background-color: #16161e;
+}
+
+.dropdown .dd-list input[type="search"] {
+  background-color: #16161e;
+}
+
+.auto_suggestions {
+  background-color: #16161e;
+  border-radius: 4px 4px 4px 4px;
+  border: none;
+}
+
+.search-form .auto_suggestions {
+  border-radius: 0 0 4px 4px;
+  border: none;
+}
+
+.auto_suggestions_lenses_edit_box a {
+  background-color: #16161e;
+}
+
+.auto_suggestions .auto_item.highlighted {
+  background-color: #1a1b26;
+}
+
+.auto_suggestions .auto_item {
+  border-radius: 4px;
+}
+
+.auto_suggestions .auto_suggestions_lense_path {
+  color: #b267e6;
+}
+
+.search-form .search-input {
+  min-width: 100%;
+}
+
+.auto_suggestions .auto_suggestions_lenses_box label:hover {
+  color: #c0cefc;
+}
+
+.k_ui_dropdown_data_list {
+  background-color: #16161e;
+}
+
+.ranked-box-wrapper {
+  background-color: #16161e;
+  border-radius: 4px;
+}
+
+.d-info-body {
+  background-color: #14141b;
+  border-radius: 4px;
+}
+
+.d-info-box-title-header {
+  background: linear-gradient(90deg, #1d43fd 0.72%, #ff0b0b 100%);
+  border-radius: 4px 4px 0 0;
+}
+
+.k_ui_btn_group {
+  border-radius: 4px;
+  background-color: #14141b;
+}
+
+.__sri-time {
+  color: #9ece6a;
+}
+
+._0_d_info_ranking.k_ui_btn_group input:checked + .box.k_ui_btn,
+._0_sri-w-highlight .box.searchResultAnswer,
+.box.--active,
+.box._0_sri-w-highlight,
+.box:hover {
+  outline: 3px solid #db4b4b;
+}
+
+.read-more-inline:hover {
+  color: #c0cefc;
+}
+a:hover {
+  color: #c0cefc;
+}
+
+._0_d_info_ranking.k_ui_btn_group
+  .searchResultAnswers
+  .widgetItems
+  input:checked
+  + .searchResultAnswer.k_ui_btn,
+._0_sri-w-highlight .searchResultAnswers .widgetItems .searchResultAnswer,
+.searchResultAnswers
+  .widgetItems
+  ._0_d_info_ranking.k_ui_btn_group
+  input:checked
+  + .searchResultAnswer.k_ui_btn,
+.searchResultAnswers .widgetItems ._0_sri-w-highlight .searchResultAnswer,
+.searchResultAnswers .widgetItems .searchResultAnswer.--active,
+.searchResultAnswers .widgetItems .searchResultAnswer._0_sri-w-highlight.box,
+.searchResultAnswers .widgetItems .searchResultAnswer:hover {
+  background-color: #c0cefc;
+}
+
+.widget-simple .__result-date {
+  color: #9ece6a;
+}
+
+.num_results a:hover {
+  color: #c0cefc;
+}
+
+.wikipediaResult a:hover {
+  color: #c0cefc;
+}
+
+.wikipediaResult .smw:hover {
+  color: #c0cefc;
+}
+
+.__srgi-title a:visited {
+  color: #de5971;
+}
+
+.newsResultItem .newsResultHeader .newsResultTitle a._0_TITLE:hover {
+  color: #c0cefc;
+}
+
+.newsResultItem .newsResultTime {
+  color: #9ece6a;
+}
+
+.videoResultItem .videoResultRight .videoResultInfo .videoPublishedDate,
+.videoResultItem .videoResultRight .videoResultInfo .videoViewsCount {
+  color: #9ece6a;
+}
+
+._0_d_info_ranking.k_ui_btn_group .s-pag-w input:checked + .s-pag-i.k_ui_btn,
+._0_sri-w-highlight .s-pag-w .s-pag-i.searchResultAnswer,
+.s-pag-w ._0_d_info_ranking.k_ui_btn_group input:checked + .s-pag-i.k_ui_btn,
+.s-pag-w ._0_sri-w-highlight .s-pag-i.searchResultAnswer,
+.s-pag-w .s-pag-i.--active,
+.s-pag-w .s-pag-i._0_sri-w-highlight.box,
+.s-pag-w .s-pag-i.box:hover {
+  background-color: #59a1dd;
+}
+
+.btn.--primary--light,
+.ranked-item-tab-links a.--primary--light {
+  background-color: #16161e;
+}
+
+.widget#dictionary .definition #expandDictionaryWidget:hover {
+  color: #9ece6a;
+}
+
+a {
+  color: #acb0d0;
+}
+
+.__sri-desc {
+  color: #898ca6;
+}
+
+.__sri-url .path {
+  color: #f7768e;
+}
+
+.widgetContent .widgetItems .widgetItem {
+  background-color: #16161e;
+}
+
+.widgetContent .widgetItems .widgetItem:hover {
+  background-color: #c0cefc;
+}
+
+.widgetContent .widgetItems .widgetNews .widget-body:hover {
+  background-color: #c0cefc;
+  color: black;
+}
+
+.widget-provider {
+  color: #db4b4b;
+}
+
+.widget-time-ago {
+  color: #9ece6a;
+}
+
+#discussions .widgetItem._0_sri-w-highlight,
+#discussions .widgetItem:hover {
+  background-color: #c0cefc;
+}
+
+#discussions .widgetItemDate {
+  color: #9ece6a;
+}
+
+.reddit-og .num {
+  color: #9ece6a;
+}
+
+.widget .conversionsHistory .historyEntry .result {
+  color: #9ece6a;
+}
+
+#load_more_results:hover {
+  color: #c0cefc;
+  border: 1px solid #c0cefc;
+}
+
+.image-preview-wrapper {
+  background-color: #1a1b26;
+}
+
+.image-preview-wrapper .image-preview-body {
+  background-color: #1a1b26;
+}
+
+.image-preview-wrapper .image-preview-footer {
+  background-color: #16161e;
+}
