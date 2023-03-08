@@ -15,5 +15,5 @@ Feel free to pull request, tweak and improve it. Not all of my CSS colours are a
 
 ## 🖼️ Screenshots
 
-<img src="https://i.imgur.com/fNfeG52.png" width="15%"></img> <img src="https://i.imgur.com/QOhqvOf.png" width="15%"></img> <img src="https://i.imgur.com/4NZM0ed.png" width="15%"></img> <img src="https://i.imgur.com/jlStPXf.png" width="15%"></img> <img src="https://i.imgur.com/bhkCm8O.png" width="15%"></img> <img src="https://i.imgur.com/SrK52Bp.jpg" width="15%"></img> 
+<img src="https://i.imgur.com/fNfeG52.png" width="15%"></img> <img src="https://i.imgur.com/QOhqvOf.png" width="15%"></img> <img src="https://i.imgur.com/4NZM0ed.png" width="15%"></img> <img src="https://i.imgur.com/jlStPXf.png" width="15%"></img> <img src="https://i.imgur.com/WAxJy5F.jpg" width="15%"></img> <img src="https://i.imgur.com/SrK52Bp.jpg" width="15%"></img> 
 
